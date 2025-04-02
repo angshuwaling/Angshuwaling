@@ -22,6 +22,8 @@
 - 📫 How to reach me **angshuwaling1@gmail.com**
 
 - ⚡ Quote **The future belongs to those who believe in the beauty of their dreams.**
+  
+  <p><img align="center" src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="angshuwaling" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
